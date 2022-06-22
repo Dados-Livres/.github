@@ -1,4 +1,4 @@
-# Hellow, wold! 
+# Hello, wold! 
 
 Repository for the organization's presentation Dados Livres!
 
