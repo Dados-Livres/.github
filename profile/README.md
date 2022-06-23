@@ -50,3 +50,5 @@ Primeiramente é preciso realizar um [login](https://dadoslivres.org/auth/login)
 - [Instagram](https://www.instagram.com/dadoslivres/)
 - [Twitter](https://twitter.com/dadoslivres)
 - [Facebook](https://www.facebook.com/dadoslivres)
+
+![Logo Dados Livres](/logoDadosLivres.png)
