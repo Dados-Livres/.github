@@ -26,3 +26,27 @@ Primeiramente é preciso realizar um [login](https://dadoslivres.org/auth/login)
 
 - [Página de como contribuir na plataforma](https://dadoslivres.org/how_to_contribute)
 - [Ideias de contribuição no quadro de tópicos do GitLab](https://gitlab.com/dados-livres/dados-livres/-/boards)
+
+## Links
+
+- Assista a apresentação **[importância dos dados abertos governamentais e seus aplicativos resultantes](https://www.youtube.com/watch?v=vDrrC0i0MII&t=10883s)** para entender com mais detalhes sobre dados abertos, controle social, inovação cívica e Dados Livres.
+
+## Contatos
+
+**Dados Livres**:
+
+- Comunidade Dados Livres no Telegram: [@dadoslivres](https://t.me/dadoslivres)
+- contato@dadoslivres.org
+
+**Mantedores do projeto**:
+
+- Telegram: [@carols0](https://t.me/carols0) | m.carolina.soares1@gmail.com 
+- Telegram: [@pbaesse](https://t.me/pbaesse) | pbaesse@gmail.com
+
+## Redes sociais
+
+- [LinkedIn](https://www.linkedin.com/company/dados-livres/)
+- [YouTube](https://www.youtube.com/channel/UCo1LRnYUpCXejZAckGvWmGA)
+- [Instagram](https://www.instagram.com/dadoslivres/)
+- [Twitter](https://twitter.com/dadoslivres)
+- [Facebook](https://www.facebook.com/dadoslivres)
