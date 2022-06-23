@@ -16,10 +16,10 @@ Primeiramente é preciso realizar um [login](https://dadoslivres.org/auth/login)
 
 **2. Código-fonte**
 
-👩‍💻 As atualizações, sugestões ou dúvidas para contribuir com o código-fonte do projeto serão aceitas no [repositório do Dados Livres no GitLab](https://gitlab.com/dados-livres/dados-livres). 
+👩‍💻 As atualizações, sugestões ou dúvidas para contribuir com o código-fonte do projeto serão aceitas no **[repositório do Dados Livres no GitLab](https://gitlab.com/dados-livres/dados-livres)**. 
 
-- Por que não contribuir aqui no GitHub? O GitLab é uma plataforma semelhante ao GitHub, porém com uma das principais diferenças de que o GitLab é um software livre. Portanto, ficou decidido entre os fundadores do projeto [Baesse](https://github.com/pbaesse) e [Carolina](https://github.com/MariaCarolinass) que vamos cultivar a filosofia software livre ao projeto, fazendo uso de plataformas, ferramentas e afins tudo sendo software livre. 
-- Por que ter um repositório do Dados Livres no GitHub? Para dá mais visibilidade ao projeto!
+- **Por que não contribuir aqui no GitHub?** O GitLab é uma plataforma semelhante ao GitHub, porém com uma das principais diferenças de que o GitLab é um software livre. Portanto, ficou decidido entre os fundadores do projeto [Baesse](https://github.com/pbaesse) e [Carolina](https://github.com/MariaCarolinass) que vamos cultivar a filosofia software livre ao projeto, fazendo uso de plataformas, ferramentas e afins tudo sendo software livre. 
+- **Por que ter um repositório do Dados Livres no GitHub?** Para dá mais visibilidade ao projeto!
 - Leia o arquivo [README.md](https://gitlab.com/dados-livres/dados-livres/-/blob/master/README.md) no GitLab do projeto para mais informações de como instalar o software
 
 **3. Saiba mais como contribuir**
