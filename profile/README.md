@@ -33,12 +33,12 @@ Primeiramente é preciso realizar um [login](https://dadoslivres.org/auth/login)
 
 ## Contatos
 
-**Dados Livres**:
+Dados Livres:
 
 - Comunidade Dados Livres no Telegram: [@dadoslivres](https://t.me/dadoslivres)
 - contato@dadoslivres.org
 
-**Mantedores do projeto**:
+Mantedores do projeto:
 
 - Telegram: [@carols0](https://t.me/carols0) | m.carolina.soares1@gmail.com 
 - Telegram: [@pbaesse](https://t.me/pbaesse) | pbaesse@gmail.com
