@@ -1,6 +1,6 @@
 # Olá, boas vindas! 👋 
 
-O **Dados Livres** é um projeto software livre e sem fins lucrativos para catalogação de fontes de dados abertos e aplicações cívicas por meio de colaboração coletiva. Um dos objetivos do projeto é criar um ambiente que facilite a atuação do público no controle social e na difusão dos dados abertos para os mais diversos fins. 
+O **Dados Livres** é um projeto software livre, sem fins lucrativos, para catalogação de fontes de dados abertos e aplicações cívicas por meio de colaboração coletiva. Um dos objetivos do projeto é criar um ambiente que facilite a atuação do público no controle social e na difusão dos dados abertos para os mais diversos fins. 
 
 :raising_hand: A plataforma Dados Livres foi desenvolvida com a linguagem de programação Python juntamente ao microframework web Flask e está disponível em [dadoslivres.org](https://dadoslivres.org/).
 
