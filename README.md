@@ -1,5 +1,1 @@
-# Hello, wold! 
-
-Organizing Dados Livres on GitHub:
-
-[https://github.com/Dados-Livres](https://github.com/Dados-Livres)
+# Projeto continuado no GitLab: https://gitlab.com/dados-livres/dados-livres/
